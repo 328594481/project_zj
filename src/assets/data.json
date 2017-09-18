@@ -1,0 +1,25 @@
+{
+  "user": {
+    "name": "zjh",
+    "password": "1",
+    "menu": [
+      {
+        "name": "菜单1",
+      },
+      {
+        "name": "菜单2",
+      },
+      {
+       "name": "菜单3",
+		"subMenu":[
+		{
+		"subname": "子菜单1",
+		}
+		{
+		"subname": "子菜单2",
+		}
+		]
+      },
+  },
+ 
+}
